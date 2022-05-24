@@ -144,6 +144,15 @@
         "hungry"
       ],
       "id": "24"
+    },
+    {
+      "name": "Luis",
+      "species": "Lion",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "15"
     }
   ]
 }
